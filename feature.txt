@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 githubb
-=======
-github
 
->>>>>>> conflict-branch
-=======
-github
-
->>>>>>> conflict-branch
